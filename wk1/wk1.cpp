@@ -22,6 +22,16 @@ void doorback()
     }
 }
 
+void splash()
+{
+    int a = 10;
+
+    for (int i = 0; i < a; ++i)
+    {
+        cout << "love you)";
+    }
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
