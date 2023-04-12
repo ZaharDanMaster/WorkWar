@@ -32,6 +32,16 @@ void splash()
     }
 }
 
+void marakasi()
+{
+    int a = 10;
+
+    for (int i = 0; i < a; ++i)
+    {
+        cout << "bo bo bo)";
+    }
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
